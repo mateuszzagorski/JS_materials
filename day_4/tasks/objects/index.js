@@ -35,7 +35,7 @@ console.clear();
 // console.log( carDescription( car ) );
 
 // 5. Stwórz funkcję, która przyjmuje tablicę obiektów reprezentujących zamówienia w sklepie internetowym, a następnie zwraca sumę kwoty zamówień dla każdego klienta:
-// const orders = [
+// let orders = [
 //   { customer: 'Alice', amount: 100 },
 //   { customer: 'Bob', amount: 50 },
 //   { customer: 'Alice', amount: 200 },

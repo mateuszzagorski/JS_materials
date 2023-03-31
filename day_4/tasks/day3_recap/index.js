@@ -18,8 +18,8 @@ console.clear();
 // console.log(unique); // [1, 2, 3, 4, 5]
 
 // 4. Posortuj elementy w tablicy od największej do najmniejszej wartości:
-// const arr = [ 5, 2, 7, 1, 8, 3 ];
-// const arr2 = [ 5, 2, 7, 1, 8, 3 ];
+// let arr = [ 5, 2, 7, 1, 8, 3 ];
+// let arr2 = [ 5, 2, 7, 1, 8, 3 ];
 
 // console.log(arr);
 // console.log(arr2);
